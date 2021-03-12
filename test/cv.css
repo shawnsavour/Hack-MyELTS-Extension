@@ -1,0 +1,20 @@
+<style>
+.prog-item {
+    font-size: 12px;
+    border-radius: 25px;
+    background: red;
+    color: white;
+    font-weight: 500;
+    padding: 5px 15px;
+    display: inline-block;
+    margin-top: 15px;
+    margin-right: 5px;
+}
+.prog-box {
+    margin-left: 1.5rem;
+    width: calc(100% - 1.5rem);
+}
+.myset {
+    display: inline-block;
+}
+</style>
